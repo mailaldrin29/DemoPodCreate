@@ -1,0 +1,25 @@
+{
+  "name": "DemoPodCreate",
+  "version": "0.1.0",
+  "summary": "A short description of DemoPodCreate.",
+  "description": "",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/DemoPodCreate",
+  "license": "MIT",
+  "authors": {
+    "Aldrin Thivyanathan": "aldrin.a.thivyanathan@pwc.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/DemoPodCreate.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "DemoPodCreate": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}

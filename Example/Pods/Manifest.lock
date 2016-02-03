@@ -1,0 +1,14 @@
+PODS:
+  - DemoPodCreate (0.1.0)
+
+DEPENDENCIES:
+  - DemoPodCreate (from `../`)
+
+EXTERNAL SOURCES:
+  DemoPodCreate:
+    :path: ../
+
+SPEC CHECKSUMS:
+  DemoPodCreate: 34c33d1388be5e4bdd5fadfac8f55900026fb27a
+
+COCOAPODS: 0.39.0
