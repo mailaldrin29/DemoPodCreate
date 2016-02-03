@@ -7,6 +7,7 @@
 //
 
 #import "PWCViewController.h"
+#import "NSString+Validation.h"
 
 @interface PWCViewController ()
 
@@ -18,6 +19,10 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    NSString *email = @"hi@hi.com";
+    if ([email isValidEmailId]) {
+        NSLog(@"Valid Email");
+    }
 }
 
 - (void)didReceiveMemoryWarning

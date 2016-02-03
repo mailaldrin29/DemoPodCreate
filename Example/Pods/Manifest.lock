@@ -9,6 +9,6 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  DemoPodCreate: 34c33d1388be5e4bdd5fadfac8f55900026fb27a
+  DemoPodCreate: b1d42392300aeb26fec59f044a026cd523107d13
 
 COCOAPODS: 0.39.0

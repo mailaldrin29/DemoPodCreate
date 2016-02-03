@@ -1,15 +1,14 @@
 {
   "name": "DemoPodCreate",
   "version": "0.1.0",
-  "summary": "A short description of DemoPodCreate.",
-  "description": "",
-  "homepage": "https://github.com/<GITHUB_USERNAME>/DemoPodCreate",
+  "summary": "Demo for creating cocoapods.",
+  "homepage": "https://github.com/mailaldrin29/DemoPodCreate",
   "license": "MIT",
   "authors": {
-    "Aldrin Thivyanathan": "aldrin.a.thivyanathan@pwc.com"
+    "Aldrin Thivyanathan": "aldrin.t@hotmail.com"
   },
   "source": {
-    "git": "https://github.com/<GITHUB_USERNAME>/DemoPodCreate.git",
+    "git": "https://github.com/mailaldrin29/DemoPodCreate.git",
     "tag": "0.1.0"
   },
   "platforms": {

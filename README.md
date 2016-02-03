@@ -22,7 +22,7 @@ pod "DemoPodCreate"
 
 ## Author
 
-Aldrin Thivyanathan, aldrin.a.thivyanathan@pwc.com
+Aldrin Thivyanathan, aldrin.t@hotmail.com
 
 ## License
 

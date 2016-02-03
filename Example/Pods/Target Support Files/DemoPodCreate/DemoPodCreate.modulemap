@@ -1,6 +1,0 @@
-framework module DemoPodCreate {
-  umbrella header "DemoPodCreate-umbrella.h"
-
-  export *
-  module * { export * }
-}
